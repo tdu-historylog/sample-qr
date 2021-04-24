@@ -8,5 +8,14 @@
 pip install pipenv
 pipenv install
 
-pipenv run start
+pipenv shell
+> sample-qr
 ```
+
+## QR Codes
+
+[is here](./export)
+
+## LICENSE
+
+[MIT](LICENSE)
