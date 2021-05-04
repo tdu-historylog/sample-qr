@@ -5,11 +5,8 @@
 ## Usage
 
 ```bash
-pip install pipenv
-pipenv install
-
-pipenv shell
-> sample-qr
+pip install git+https://github.com/tdu-logcation/sample-qr.git
+sample-qr
 ```
 
 ## QR Codes
